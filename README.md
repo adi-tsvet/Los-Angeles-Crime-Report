@@ -29,6 +29,7 @@ The Filter Tool provided the capability to control which records pass through th
 ## Data types used for staging pipelines in Talend
 
 ![](Reports/Talend_Pipeline.png)
+
 Alteryx offers powerful tools for data profiling, including the Summarize Tool and Browse Tool, which allow users to explore and analyze the data types present in their datasets. Leveraging these data types, we can establish appropriate data type mappings in Talend to prevent errors during source-to-target data loads.
 
 | Name         | Type     | Size |
@@ -96,4 +97,4 @@ Alteryx offers powerful tools for data profiling, including the Summarize Tool a
 
 ![](Reports/MySql_workbench.png)
 
-**Figure 1: MySQL Workbench**
+**Figure 2: MySQL Workbench**
