@@ -1,7 +1,7 @@
 # Los-Angeles-Crime-Report
 
 ## Access the Full PowerBI Report
-To view the complete PowerBI report, please click ![here](Final-Report.pdf).
+To view the complete PowerBI report, please click [here](Final-Report.pdf)!.
 Note: Make sure you have appropriate permissions to access the report.
 
 ## Data Abstraction
@@ -12,6 +12,7 @@ This dataset reflects incidents of crime in the City of Los Angeles dating back 
 
 ## Tools used in ALTRYX
 In analyzing the Los Angeles Crime dataset in Alteryx, the following tools were instrumental in gaining insights into the data's structure, quality, and content:
+
 ![](Reports/Altryx_workflow.png)
 - **Input Data Tool**:
 I utilized the Input Data Tool to import the Los Angeles Crime dataset into my Alteryx workflow. This tool can be configured to read the dataset from various sources, such as a CSV file.
@@ -26,6 +27,7 @@ Adding a Basic Data Profile Tool and connecting it to the output of the Input Da
 The Filter Tool provided the capability to control which records pass through the pipeline based on specific criteria, enhancing data manipulation and analysis processes.
 
 ## Data types used for staging pipelines in Talend
+
 ![](Reports/Talend_Pipeline.png)
 Alteryx offers powerful tools for data profiling, including the Summarize Tool and Browse Tool, which allow users to explore and analyze the data types present in their datasets. Leveraging these data types, we can establish appropriate data type mappings in Talend to prevent errors during source-to-target data loads.
 
@@ -89,5 +91,9 @@ Alteryx offers powerful tools for data profiling, including the Summarize Tool a
 
 ## Databases
 ![](Reports/Azuredatabase.png)
+
+**Figure 1: Azure Database Data Description**
+
 ![](Reports/MySql_workbench.png)
 
+**Figure 1: MySQL Workbench**
